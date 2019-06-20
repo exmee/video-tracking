@@ -1,4 +1,4 @@
-导入命令：conda env export --file python36_20190106.yml
+导入命令：conda env export --file video-tracking.yml
 
 如导入命令无法下载则可以下载以下包：
 tensorflow
